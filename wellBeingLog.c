@@ -2,9 +2,6 @@
     ==================================================
     Wish List Forecaster
     ==================================================
-    Name   : Nozhin Azarpanah
-    Date   : September 5, 2021
-
 */
 
 #define _CRT_SECURE_NO_WARNINGS
